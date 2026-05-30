@@ -6,8 +6,6 @@
 
 直接在浏览器中打开 `index.html` 即可开始游戏！
 
-[点击这里在线试玩](https://your-username.github.io/tank-battle/) (部署后替换链接)
-
 ## ✨ 游戏特性
 
 - 🎯 **经典玩法** - 操控坦克消灭敌人，保护基地
@@ -51,7 +49,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/your-username/tank-battle.git
+git clone https://github.com/eikenlorber-png/tank-battle.git
 
 # 进入目录
 cd tank-battle
@@ -60,36 +58,11 @@ cd tank-battle
 open index.html
 ```
 
-或者使用本地服务器：
-
-```bash
-# Python 3
-python -m http.server 8000
-
-# Node.js
-npx serve
-```
-
-然后在浏览器访问 `http://localhost:8000`
-
 ## 🛠️ 技术栈
 
 - HTML5 Canvas - 游戏渲染
 - 原生 JavaScript (ES6+) - 游戏逻辑
 - CSS3 - 界面样式
-
-## 📸 游戏截图
-
-*(建议添加游戏截图)*
-
-## 📝 更新日志
-
-### v1.0.0
-- ✅ 基础游戏玩法
-- ✅ 敌人AI系统
-- ✅ 关卡系统
-- ✅ 道具系统
-- ✅ 粒子特效
 
 ## 🏅 积分规则
 
